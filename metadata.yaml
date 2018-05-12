@@ -1,0 +1,48 @@
+_repo: Das-Leben-Tolstois_44537
+_version: 0.1.0
+alternative_title: La vie de Tolstoi. German
+contributor:
+  translator:
+    agent_name: Sylvester, O. R.
+    gutenberg_agent_id: '42802'
+    url: http://www.gutenberg.org/2009/agents/42802
+covers:
+- cover_type: archival
+  image_path: 44537-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rolland, Romain
+    alias: Rollan, R.
+    birthdate: 1866
+    deathdate: 1944
+    gutenberg_agent_id: '2602'
+    url: http://www.gutenberg.org/2009/agents/2602
+    wikipedia: http://en.wikipedia.org/wiki/Romain_Rolland
+  editor:
+    agent_name: Herzog, Wilhelm
+    birthdate: 1884
+    deathdate: 1960
+    gutenberg_agent_id: '42801'
+    url: http://www.gutenberg.org/2009/agents/42801
+description: ''
+gutenberg_issued: '2013-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44537'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Novelists, Russian -- 19th century -- Biography'
+- !lcc 'PG'
+- !lcsh 'Tolstoy, Leo, graf, 1828-1910'
+tableOfContents: 'Einleitung -- "Die Geschichte meiner Kindheit" -- "Geschichten aus
+  dem Kaukasus" -- "Die Kosaken" -- "Sewastopol" -- "Drei Tode" -- "Eheglück" -- "Krieg
+  und Frieden" -- "Anna Karenina" -- "Beichte" und religiöse Krisis -- Soziale Krisis:
+  "Was sollen wir denn tun?" -- Wissenschaft und Kunst -- Die "Volkserzählungen" --
+  "Die Macht der Finsternis" -- "Der Tod des Iwan Iljitsch" -- "Die Kreutzersonate"
+  -- "Auferstehung" -- Die sozialen Ideen -- Die letzten Lebensjahre -- Epilog --
+  Anmerkungen -- Bilderverzeichnis.'
+title: Das Leben Tolstois
+url: http://www.gutenberg.org/ebooks/44537
